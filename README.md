@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel-Sousa-Dev
-- 👀 I’m interested in React
+- 👀 I’m interested in React and Php
 - 🌱 I’m currently learning Javascript
 <!---
 Gabriel-Sousa-Dev/Gabriel-Sousa-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
