@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## ✅️Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,github,npm,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,github,npm,mysql,jquery)](https://skillicons.dev)
           
 ## Github's Stats
 <p align="center">
