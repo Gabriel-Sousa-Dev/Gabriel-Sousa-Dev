@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## ✅️Tecnologias 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,bootstrap,github,npm,mysql)](https://skillicons.dev)
 ## 📖Estou aprendendo 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,jquery,git)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,jquery,git,webpack)](https://skillicons.dev)
           
 ## Github's Stats
 <p align="center">
