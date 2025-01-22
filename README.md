@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gabriel-Sousa-Dev
-- 👀 I’m interested in ElectronJS and React-Native
-- 🌱 I’m currently learning Electron
+## 👋 Olá, eu me chamo Gabriel
+Sou estudante de Desenvolvimento Web há 2 anos, e tenho paixão por criar soluções inovadoras utilizando as tecnologias modernas. Estou sempre em busca de melhorar minhas habilidades e colaborar em projetos interessantes.
+
 <!---
 Gabriel-Sousa-Dev/Gabriel-Sousa-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
