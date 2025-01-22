@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ## 📖Estou aprendendo 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=electron,git,reactnative&perline=6)](https://skillicons.dev)
           
-## Github's Stats
+## Estatísticas do GitHub
 <p align="center">
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Sousa-Dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
