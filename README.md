@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ### ✅️Tecnologias 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,bootstrap,tailwindcss,git,github,npm,mysql,php)](https://skillicons.dev)
 ### 📖Estou aprendendo 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=electron,reactnative&perline=6)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=electron,next&perline=6)](https://skillicons.dev)
 
 ### Principais Projetos
 - **[Mendel](https://github.com/Matheus1415/Mendel)**:
