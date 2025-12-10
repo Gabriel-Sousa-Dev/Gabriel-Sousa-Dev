@@ -26,5 +26,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+<!---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-sousa-almeida-812142342)](https://www.linkedin.com/in/gabriel-de-sousa-almeida-812142342)
+--->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldesousa.dev@gmail.com)](mailto:gabrieldesousa.dev@gmail.com)
